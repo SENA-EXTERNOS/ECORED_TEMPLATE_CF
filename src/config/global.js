@@ -88,24 +88,6 @@ export default {
       },
     ],
   },
-  referencias: [
-    {
-      referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
-    },
-  ],
-  glosario: [
-    {
-      termino: 'Término',
-      significado: 'Definición',
-    },
-    {
-      termino: '<em>Término</em>',
-      significado: 'Definición',
-    },
-  ],
   complementario: [
     {
       texto: 'Nombre del material',
@@ -116,6 +98,24 @@ export default {
       texto: 'Nombre del material',
       tipo: 'tipo',
       descarga: '/downloads/prueba.pdf',
+    },
+  ],  
+  glosario: [
+    {
+      termino: 'Término',
+      significado: 'Definición',
+    },
+    {
+      termino: '<em>Término</em>',
+      significado: 'Definición',
+    },
+  ],  
+  referencias: [
+    {
+      referencia:
+        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+      link:
+        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
     },
   ],
   creditos: {
@@ -140,11 +140,6 @@ export default {
         cargo: 'Responsable del equipo',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Nombre',
