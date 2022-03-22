@@ -99,7 +99,7 @@ export default {
       tipo: 'tipo',
       descarga: '/downloads/prueba.pdf',
     },
-  ],  
+  ],
   glosario: [
     {
       termino: 'Término',
@@ -109,7 +109,7 @@ export default {
       termino: '<em>Término</em>',
       significado: 'Definición',
     },
-  ],  
+  ],
   referencias: [
     {
       referencia:
