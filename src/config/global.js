@@ -52,7 +52,7 @@ export default {
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
+        titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
       {
@@ -88,12 +88,16 @@ export default {
       },
     ],
   },
-  referencias: [
+  complementario: [
     {
-      referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+      texto: 'Nombre del material',
+      tipo: 'tipo',
+      link: 'https://www.google.com/',
+    },
+    {
+      texto: 'Nombre del material',
+      tipo: 'tipo',
+      descarga: '/downloads/prueba.pdf',
     },
   ],
   glosario: [
@@ -106,16 +110,12 @@ export default {
       significado: 'Definición',
     },
   ],
-  complementario: [
+  referencias: [
     {
-      texto: 'Nombre del material',
-      tipo: 'tipo',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Nombre del material',
-      tipo: 'tipo',
-      descarga: '/downloads/prueba.pdf',
+      referencia:
+        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+      link:
+        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
     },
   ],
   creditos: {
@@ -140,11 +140,6 @@ export default {
         cargo: 'Responsable del equipo',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Nombre',
