@@ -90,13 +90,17 @@ export default {
   },
   complementario: [
     {
-      texto: 'Nombre del material',
-      tipo: 'tipo',
+      tema: 'Estrategias para la segmentación de mercados',
+      referencia:
+        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+      tipo: 'Video',
       link: 'https://www.google.com/',
     },
     {
-      texto: 'Nombre del material',
-      tipo: 'tipo',
+      tema: 'Estrategias para la segmentación de mercados',
+      referencia:
+        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+      tipo: 'Video',
       descarga: '/downloads/prueba.pdf',
     },
   ],
