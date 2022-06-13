@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-
+    
 </template>
 
 <script>

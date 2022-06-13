@@ -64,6 +64,7 @@ export default {
         icono: 'fas fa-sitemap',
         titulo: 'Síntesis',
         nombreRuta: 'sintesis',
+        desarrolloContenidos: true,
       },
       {
         nombreRuta: 'actividad',
@@ -100,36 +101,32 @@ export default {
   },
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
-      referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
+      tema: '',
+      referencia: '',
+      tipo: '',
       link: 'https://www.google.com/',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
-      referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
+      tema: '',
+      referencia: '',
+      tipo: '',
       descarga: '/downloads/prueba.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: '',
+      significado: '',
     },
     {
-      termino: '<em>Término</em>',
-      significado: 'Definición',
+      termino: '<em></em>',
+      significado: '',
     },
   ],
   referencias: [
     {
-      referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+      referencia: '',
+      link: '',
     },
   ],
   creditos: {
